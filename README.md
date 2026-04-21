@@ -39,16 +39,6 @@ Camera (Mech-Eye) → IPC → Mech-Vision / Mech-Viz → PLC → Robot
 * High-precision picking
 * Industrial integration ready
 
-## 🎥 Demo
-
-(Add system demo / screenshots)
-
-## 📂 Project Structure
-
-configs/ → vision configs
-scripts/ → communication scripts
-outputs/ → results
-
 ## 🚀 Future Scope
 
 * AI-based object recognition
